@@ -38,7 +38,7 @@ Just for fun and also because I couldn't think of anything else
 
 ## Where's the Source Code?
 
-Source Code can be found in the 'TBSC' folder above. (Requires installation of Rust)
+Source Code can be found in the 'TBSC' folder above. (Requires installation of Python, pip and Kivy.)
 
 ## Will there be any updates?
 
