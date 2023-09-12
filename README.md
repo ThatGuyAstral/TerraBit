@@ -12,7 +12,7 @@ Here's an example of Python using a .json file to display values:
 
 JSON:
 
-```
+```json
 {
     "test": "Hi this is a long piece of string for python to load hehe"
 }
@@ -20,7 +20,7 @@ JSON:
 
 Python File:
 
-```
+```python
 import json
 
 filename = Values.json
